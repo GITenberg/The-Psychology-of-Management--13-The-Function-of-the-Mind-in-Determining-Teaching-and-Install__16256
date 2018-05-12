@@ -1,0 +1,60 @@
+_repo: The-Psychology-of-Management--13-The-Function-of-the-Mind-in-Determining-Teaching-and-Install__16256
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gilbreth, Lillian Moller
+    aliases:
+    - Gilbreth, L. M. (Lillian Moller)
+    - Gilbreth, Lillian Evelyn Moller
+    - Moller, Lillian Evelyn
+    birthdate: 1878
+    deathdate: 1972
+    gutenberg_agent_id: '6578'
+    url: http://www.gutenberg.org/2009/agents/6578
+    wikipedia: http://en.wikipedia.org/wiki/Lillian_Moller_Gilbreth
+description: "The Psychology of Management: The Function of the Mind in Determining,\
+  \ Teaching, and Installing Methods of Least Waste is a book written by Lillian Gilbreth\
+  \ which investigates the psychological aspects of scientific management, incorporating\
+  \ concepts of human relations and worker individuality into management principles.\
+  \ Published in 1914, it is a major early work in the field of industrial psychology\
+  \ and scientific management. A contemporary book review reflects early resistance\
+  \ to scientific management, stating the book \"does not answer the really important\
+  \ questions about the effect of standardized work upon the worker\".\nIn this book,\
+  \ Gilbreth defines \"the psychology of management\" as \"the effect of the mind\
+  \ that is directing work upon that work which is directed, and the effect of this\
+  \ undirected and directed work upon the mind of the worker.\" She expresses the\
+  \ view that scientific management is \"built on the principle of recognition of\
+  \ the individual, not only as an economic unit but as a personality\", stressing\
+  \ the importance of including the \"human element\" in management, which was lacking\
+  \ in the prevailing form of Taylorism at the time. It was also the first time that\
+  \ basic elements of management theory were brought together, including \"(1) knowledge\
+  \ of individual behavior, (2) the theory of groups, (3) the theory of communication,\
+  \ and (4) a rational basis for decision making\".\nThis book was originally Gilbreth's\
+  \ unpublished dissertation for a doctorate from the University of California; however,\
+  \ since the university refused to grant her the degree due to her noncompliance\
+  \ with residency requirements, she instead opted to publish it. It was originally\
+  \ serialized during 1912-1913 in Industrial Engineering and Engineering Digest,\
+  \ before it was published in book form in 1914.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2005-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16256'
+  wikidata: Q7758665
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Industrial efficiency'
+- !lcsh 'Industrial management'
+- !lcc 'T'
+- !lcc 'HF'
+- !lcsh 'Psychology, Industrial'
+title: "The Psychology of Management\r\nThe Function of the Mind in Determining, Teaching\
+  \ and Installing Methods of Least Waste"
+url: http://www.gutenberg.org/ebooks/16256
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Psychology_of_Management
